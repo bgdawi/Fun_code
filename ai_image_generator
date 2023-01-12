@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = "insert openai key here"
 #change number to choose how many photos to generate per script run
 num = 10
 
